@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://chandana-23.github.io/csb-tduxc/static/css/main.d8074a69.chunk.css",
+    "main.js": "https://chandana-23.github.io/csb-tduxc/static/js/main.2e43c968.chunk.js",
+    "main.js.map": "https://chandana-23.github.io/csb-tduxc/static/js/main.2e43c968.chunk.js.map",
+    "runtime-main.js": "https://chandana-23.github.io/csb-tduxc/static/js/runtime-main.8b39a88e.js",
+    "runtime-main.js.map": "https://chandana-23.github.io/csb-tduxc/static/js/runtime-main.8b39a88e.js.map",
+    "static/js/2.286a77f2.chunk.js": "https://chandana-23.github.io/csb-tduxc/static/js/2.286a77f2.chunk.js",
+    "static/js/2.286a77f2.chunk.js.map": "https://chandana-23.github.io/csb-tduxc/static/js/2.286a77f2.chunk.js.map",
+    "index.html": "https://chandana-23.github.io/csb-tduxc/index.html",
+    "static/css/main.d8074a69.chunk.css.map": "https://chandana-23.github.io/csb-tduxc/static/css/main.d8074a69.chunk.css.map",
+    "static/js/2.286a77f2.chunk.js.LICENSE.txt": "https://chandana-23.github.io/csb-tduxc/static/js/2.286a77f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b39a88e.js",
+    "static/js/2.286a77f2.chunk.js",
+    "static/css/main.d8074a69.chunk.css",
+    "static/js/main.2e43c968.chunk.js"
+  ]
+}
